@@ -31,14 +31,50 @@ Calculatiing the volume of a cuboid using Classes and Methods along with usage o
 # Algorithms:
 # Algorithm: Class and Object in C++ (Student Information)
 
-Start
-Define a class Student with the following public data members: name (string) branch (string) subject (string) year (string) result (float)
+Define a class Student with the following public data members:
+
+name (string)
+
+branch (string)
+
+subject (string)
+
+year (string)
+
+result (float)
+
 In the main() function:
+
 Create an object s1 of type Student.
-Assign values to s1’s attributes: name = "Zub" branch = "ENTC" subject = "C++" year = "2nd Year" result = 9.5
+
+Assign the following values to s1:
+
+name = "Zub"
+
+branch = "ENTC"
+
+subject = "C++"
+
+year = "2nd Year"
+
+result = 9.5
+
 Display all details of s1.
-Reassign new values to s1: name = "Dan" branch = "ENTC" subject = "C++" year = "2nd Year" result = 6.9
+
+Reassign new values to s1:
+
+name = "Dan"
+
+branch = "ENTC"
+
+subject = "C++"
+
+year = "2nd Year"
+
+result = 6.9
+
 Display updated details of s1.
+
 End
 
 # Algorithm: Calculator using Class and Objects
