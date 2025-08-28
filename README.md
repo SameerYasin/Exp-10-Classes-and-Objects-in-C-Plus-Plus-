@@ -1,4 +1,4 @@
-# Classes-and-Objects-in-C-Plus-Plus-
+# Classes-and-Objects-in-C-Plus-Plus
 
 # Aim: To study and implement Classes and Objects
 # Software Requried: Visual Studio
