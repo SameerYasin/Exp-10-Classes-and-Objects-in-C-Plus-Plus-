@@ -29,9 +29,6 @@ Calculating the area of rectangle using Classes and Methods
 Calculatiing the volume of a cuboid using Classes and Methods along with usage of private and public members.
 
 # Algorithms:
-Got it 👍 I’ll clean everything up so you can copy directly into your GitHub repo. Here’s the **plain, structured version of all the algorithms (no emojis, no extra formatting):**
-
----
 
 # Algorithm: Class and Object in C++ (Student Information)
 
@@ -170,10 +167,6 @@ Got it 👍 I’ll clean everything up so you can copy directly into your GitHub
    * Display "Volume:" followed by vol.
 
 **End**
-
----
-
-Would you like me to **put all these into a single `README.md` file format** (with Markdown styling for GitHub), or keep them as plain `.txt` style so you can paste them anywhere?
 
 
 # Conclusion:
